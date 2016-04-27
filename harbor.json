@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Sushi Bar",
+    "roll": 1,
+    "build-cost": 4,
+    "kind": "restaurant",
+    "order": "red",
+    "require-harbor": true,
+    "rule": "basic-steal",
+    "steal": 3,
+  },
+]

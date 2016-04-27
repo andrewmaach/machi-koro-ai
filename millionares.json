@@ -1,0 +1,13 @@
+[
+  {
+    "title": "General Store",
+    "roll": 2,
+    "build-cost": 0,
+    "kind": "retail",
+    "order": "green",
+    "rule": "income",
+    "income": 2,
+  },
+
+
+]

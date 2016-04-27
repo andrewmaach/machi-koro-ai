@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Wheat Field",
+    "roll": 1,
+    "build-cost": 1,
+    "kind": "grain",
+    "order": "blue",
+    "rule": "income",
+    "income": 1,
+  },
+
+  {
+    "title": "Ranch",
+    "roll": 12
+    "build-cost": 1,
+    "kind": "cow",
+    "order": "blue",
+    "rule": "income",
+    "income": 1,
+  },
+
+]
